@@ -1,1 +1,12 @@
 images.jpeg
+
+ .Ld9VirtualBox/
+        .VirtualBox/
+        .bash_history
+        .gitconfig
+        .idlerc/
+        .lesshst
+        .openjfx/
+        .soapuios/
+        .ssh/
+        .vscode/
